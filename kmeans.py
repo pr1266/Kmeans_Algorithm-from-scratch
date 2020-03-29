@@ -118,16 +118,3 @@ if __name__ == '__main__':
     km.sample_data()
     km.fit()
     km.plot()
-
-
-
-
-
-
-
-
-
-
-
-
-
